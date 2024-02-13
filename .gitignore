@@ -1,0 +1,11 @@
+# Gitignore for Node projects
+#
+node_modules/
+npm-debug.log
+.DS_Store
+.idea
+.vscode
+*.log
+*.log.*
+*.log-*
+.env
